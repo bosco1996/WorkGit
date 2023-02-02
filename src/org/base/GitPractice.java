@@ -5,6 +5,8 @@ public class GitPractice {
 		System.out.println("Git practice \n");
 		String s = "sun shines";
 		System.out.println(s);
+		boolean contains = s.contains("s");
+		System.out.println(contains);
 	}
 
 }
